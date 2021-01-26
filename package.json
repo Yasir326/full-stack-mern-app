@@ -1,0 +1,13 @@
+{
+  "name": "full-stack-mern-app",
+  "version": "1.0.0",
+  "description": "full stack mern application with auth",
+  "main": "index.js",
+  "repository": "https://github.com/Yasir326/full-stack-mern-app.git",
+  "author": "Yasir Khan",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7"
+  }
+}
